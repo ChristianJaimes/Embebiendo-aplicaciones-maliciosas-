@@ -1,6 +1,6 @@
 # Curso de seguridad en dispositivos Moviles TdeA
 
-_Este reporistorio ontiene APKS con malas intenciones listas para ser analizadas_
+_Este reporistorio ontiene APKS, usadas en el taller "Embebiendo aplicaciones malocionsas"_
 
 
 ### Advertencia 📋
